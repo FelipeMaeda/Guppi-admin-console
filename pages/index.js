@@ -1,5 +1,5 @@
 function Home(){
-    return <div>Marcola é Pica</div>
+    return <div>O Brabo tem nome</div>
 };
 
 export default Home;
